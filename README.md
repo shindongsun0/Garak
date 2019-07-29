@@ -20,11 +20,16 @@
 <HardWare>
 
 ![2](./images/2.jpg)
+
 아두이노Uno에 MusicShield를 부착, 압력센서를 누르면 압력값을 받아들이고 동시에 피아노 소리를 스피커로 내보낸다. 그리고 아두이노와 연결된 라즈베리파이로 압력값이 들어오는 것을 볼 수 있다. 
 2학년때부터 학습했던 아두이노 공부를 토대로 sensor와 아두이노연결, 그리고 Arduino uno의 serial2핀과 music shield의 통신핀을 선으로 연결하는 전자회로적 지식도 필요했다.
 
-<SoftWare> 
 
+
+
+
+
+<SoftWare>
 <라즈베리파이에서 .py 파이썬파일 생성, 실행 Arduino -> DynamoDB>
 MQTT통신 // 코드는 RPI2AWS.py참조
 
