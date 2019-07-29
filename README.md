@@ -9,4 +9,4 @@ AWS data pipeline + AWS quicksight
 
 #앞으로 계획 
 -UN citypreneurs참가
--자동화 시스템 구축(향후 목표 AWS kinesis사용)
+-Real-Time Data Stream(향후 목표 AWS kinesis & Lambda & Kibana사용)
