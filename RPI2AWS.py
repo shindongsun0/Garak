@@ -1,3 +1,4 @@
+#라즈베리파이에서 AWS Dynamodb로 측정한 압력값 저장
 import time, json, ssl
 import paho.mqtt.client as mqtt
 import serial
