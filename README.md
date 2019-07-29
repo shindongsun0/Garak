@@ -3,10 +3,10 @@
 ![1](./images/1.jpg)
 <br>
 **아두이노(uno or mega)로 센싱한 데이터를 AWS에 올리는 방법은? <br>
-라즈베리파이를 통해 .py파일로 data DynamoDB에 저장**
+-라즈베리파이를 통해 .py파일로 data DynamoDB에 저장**
 <br>
 **AWS활용하기: 센싱한 데이터를 어떻게 가공할까? <br>
-AWS data pipeline + AWS quicksight**
+-AWS data pipeline + AWS quicksight**
 <br>
 아두이노로 피아노를 만드는데 필요한 아두이노 코드 작성과 회로작업, 압력 값을 클라우드로 올리기 위한 파이썬 코드 작성, 그리고 AWS개발을 하며 배운 점이 많았던 프로젝트다. <br>
 먼저, 하드웨어부분에서 아두이노를 1년간 다뤄봤기 때문에 수월하게 코드를 짜고 연결할 수 있었다. 하지만, 아두이노Yun이 아닌 아두이노Uno로 센싱한 데이터를 클라우드에 올리는 것은 학교내 특강에서도 성공한 적이 없다고 해 오기가 생겼다. 조금 복잡하지만, 너무 비싼 Yun 대신 Uno를 사용해 클라우드에 올리는 architecture를 설계했다. <br>
