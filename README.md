@@ -28,13 +28,13 @@
 ***
 **SoftWare**
  <br>
-**라즈베리파이에서 .py 파이썬파일 생성, 실행 Arduino -> DynamoDB**
+**라즈베리파이에서 .py 파이썬파일 생성, 실행 Arduino -> DynamoDB**<br>
 MQTT통신 // 코드는 RPI2AWS.py참조
 <br>
-**DynamoDB생성 - 열손가락 압력값 & timestamp 저장목적**
+**DynamoDB생성 - 열손가락 압력값 & timestamp 저장목적**<br>
 ![3](./images/3.jpg)
 <br>
-**IoTCore – 사물 Garak_policy**
+**IoTCore – 사물 Garak_policy**<br>
 //Garak_policy.json참고
 <br>
 **IoTCore act – Rules**
@@ -44,7 +44,7 @@ MQTT통신 // 코드는 RPI2AWS.py참조
 <br>
 ![6](./images/6.jpg)
 <br>
-Sql 문 작성 -> Action 선택(미리 dynamodb만들어 놓으면 Sensing Data가 아두이노->라즈베리파이(파이썬)->aws IoTCore -> DynamoDB 순으로 저장됨)
+Sql 문 작성 -> Action 선택(미리 dynamodb만들어 놓으면 Sensing Data가 아두이노->라즈베리파이(파이썬)->aws IoTCore -> DynamoDB 순으로 저장됨)<br>
 ![7](./images/7.jpg)
 <br>
 **Datapipeline구성**
