@@ -1,4 +1,4 @@
-﻿# Garak(IoT Device)
+﻿# Garak(IoT Device) 
 아두이노 + 압력센서 + 라즈베리파이 + AWS를 사용한 노인 손가락 재활치료를 돕는 피아노 제품
 ![1](./images/1.jpg)
 <br>
@@ -72,3 +72,6 @@ S3 import JSON in Quick Sight
 <br>
 ![15](./images/15.jpg)
 **모델링 프로토타입**
+
+**수상**
+smwu 자기주도진로프로젝트 총장상 수상
